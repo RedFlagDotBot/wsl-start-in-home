@@ -1,6 +1,6 @@
 # Launch WSL directly into the Linux home directory
 
-[Version française](./README.fr.md)
+[Version française](./README.fr.md) 
 
 ## Context
 
