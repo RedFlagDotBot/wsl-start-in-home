@@ -254,4 +254,4 @@ Then launch WSL with:
 wslhome
 ```
 
-This alternative is useful if you want to keep the default `wsl` behavior unchanged.
+This alternative is useful if you want to keep the default `wsl` behavior unchanged. 
