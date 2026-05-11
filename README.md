@@ -257,3 +257,10 @@ wslhome
 ```
 
 This alternative is useful if you want to keep the default `wsl` behavior unchanged. 
+
+## Tested on
+
+- Windows 11
+- WSL 2
+- Fedora WSL
+- PowerShell
